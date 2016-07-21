@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-ui5",
-  "version": "6.0.3",
+  "version": "6.0.4",
   "description": "An UNOFFICIAL preset for building SAP UI5 application with Babel.",
   "main": "index.js",
   "keywords": [
@@ -47,6 +47,7 @@
     "babel-plugin-transform-regenerator": "^6.6.0",
 
     "babel-plugin-syntax-class-properties": "^6.5.0",
+    "babel-plugin-transform-async-to-generator": "^6.8.0",
     
     "babel-plugin-ui5": "^6"
   }

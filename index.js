@@ -20,6 +20,8 @@ module.exports = {
         require("babel-plugin-transform-regenerator"),
 
         require("babel-plugin-syntax-class-properties"),
+        require("babel-plugin-transform-async-to-generator"),
+
         require("babel-plugin-ui5")
   	]
 };
